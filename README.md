@@ -1,2 +1,2 @@
-# Python-OOP-
-Learn OOP Concepts  in Python3
+# Python OOP
+Learn OOP Concepts in Python3
